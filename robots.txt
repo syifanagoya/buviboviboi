@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://buviboviboi.pages.dev/sitemap.xml
